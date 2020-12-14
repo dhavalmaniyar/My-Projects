@@ -7,3 +7,7 @@ As this is the two player game i.e one slider handled by one player and another 
 
 After the game is over i.e ball becomes invisible or the player not able to hit the ball in opposite direction then a window is poped up 
 with the result of the game.
+
+This are some glimpse of the Ping-Pong game:
+
+()[]My_Project.png
