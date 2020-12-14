@@ -10,4 +10,4 @@ with the result of the game.
 
 This are some glimpse of the Ping-Pong game:
 
-![](My_Project.png)
+![](./My_project.png)
